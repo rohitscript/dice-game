@@ -20,7 +20,7 @@ Demo: https://rohitverse.github.io/dice-game
 ## Authors
 
   * **KR ROHIT**
-    [Rohitverse](https://rohitverse.github.io/)
+    [Rohitverse](https://github.com/rohitverse)
 
 
 ## License
